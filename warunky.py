@@ -18,4 +18,4 @@ else:
 
 	
 print("cos")
-print("cos x 2")
+print("cos x2")
